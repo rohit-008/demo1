@@ -1,2 +1,2 @@
 # demo1
-full stack devolopment
+full stack development
